@@ -3,10 +3,11 @@
 
 ## PRIMEIRO PROJETO STEP BY STEP FEITO EM REACT.JS  🎉🎉
 ## CONHECIMENTOS ADQUIRIDOS NAS AULAS DO PROFESSOR JAILSON do INSTITUTO PROA 🚀🚀
-<img src="https://cdn.hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif"  width="300px" font-size="100px" >
+<img src="https://cdn.hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif"  width="300px">
   <br>
   </div>
   
+<br>
 
 >Aluno: https://github.com/PedroRocs/  
 
